@@ -29,4 +29,4 @@ src/main/java
 1. This is the file  used for executing all the testcases along with calling APK.
 
 # Note
-Sizing concern could not able to upload the APK file, FYI , I have used Amazon APK downloaded from pureapk website.
+Because of Sizing concern could not able to upload the APK file, FYI , I have used Amazon APK downloaded from pureapk website.
