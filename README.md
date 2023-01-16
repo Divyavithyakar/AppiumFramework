@@ -27,3 +27,6 @@ src/main/java
  
 # Testng.xml 
 1. This is the file  used for executing all the testcases along with calling APK.
+
+# Note
+Sizing concern could not able to upload the APK file, FYI , I have used Amazon APK downloaded from pureapk website.
